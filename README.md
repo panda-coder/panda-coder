@@ -1,10 +1,14 @@
+[![CodeWars Badge](https://www.codewars.com/users/panda-coder/badges/large)](https://www.codewars.com/users/panda-coder)  
+
+-----
+
 ### Panda Coder Here 👋
 
 My name is Ercy Moreira Neto from Brazil 🇧🇷. I've been working as PHP Developer since 2009. I'm passionate about coding. I’m currently learning Rust and Javascript 
 
 Would you like to find me?
 
-[![CodeWars Badge](https://www.codewars.com/users/panda-coder/badges/large)](https://www.codewars.com/users/panda-coder)  
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ercymneto)](https://www.linkedin.com/in/ercymneto/)
 
 
