@@ -15,13 +15,11 @@ My name is Ercy Moreira Neto from Brazil 🇧🇷. I've been working as PHP Deve
 ### :file_folder: About my github
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=panda-coder&repo=panda-coder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![card](https://github-readme-stats.vercel.app/api?username=panda-coder&theme=dark&show_icons=true)](https://github.com/panda-coder/)
 
 [![panda-coder](https://github-readme-stats.vercel.app/api/top-langs/?username=panda-coder&hide=html&layout=compact&theme=dark&langs_count=10)](https://github.com/panda-coder/)
 
+[![PandaCoder wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pandaCoder&theme=dark)](https://github.com/panda-coder/)
 
 
 ---
