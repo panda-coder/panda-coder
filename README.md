@@ -27,10 +27,10 @@ My name is Ercy Moreira Neto from Brazil 🇧🇷. I've been working as PHP Deve
 ### Would you like to find me?
 
 
-[![Instagram Badge](https://img.shields.io/badge/-GMAIL-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ercym.neto@gmail.com)](mailto:ercym.neto@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ercy.mn/)](https://www.instagram.com/ercy.mn/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ercymneto)](https://www.linkedin.com/in/ercymneto/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ercy.moreiraneto/)](https://www.facebook.com/ercy.moreiraneto/)
+[![Instagram Badge](https://img.shields.io/badge/-GMAIL-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ercym.neto@gmail.com)](mailto:ercym.neto@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ercy.mn/)](https://www.instagram.com/ercy.mn/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ercymneto)](https://www.linkedin.com/in/ercymneto/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ercy.moreiraneto/)](https://www.facebook.com/ercy.moreiraneto/)
 
 
 
