@@ -8,7 +8,7 @@
 
 ### A little bit about myself
 
-My name is Ercy Moreira Neto from Brazil 🇧🇷. I've been working as PHP Developer since 2009. I'm passionate about coding. I’m currently learning Rust and Javascript
+My name is Ercy Moreira Neto from Brazil 🇧🇷. I've been working as PHP Developer since 2009. I'm passionate about coding. I’m currently learning **Rust, Python, Typescript and Javascript**.
 
 - 💼 Tools: **Visual Studio Code, PHPStorm, Git and GitHub.**
 
